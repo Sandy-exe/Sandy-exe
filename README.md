@@ -1,6 +1,6 @@
-## Heyy there, I'm Sandy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5.25%"> 
+## Heyy there, I'm Sandy
 This is the place where I Dump my Codes🗿
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/WellmadeDefensiveGelding-size_restricted.gif">
+
 - 🔭 I’m currently working on **Machine Learning**
 - 🌱 I’m currently learning **Data science, Machine Learning, Deep Learning**
 - 💬  Ask me about anything related to Python/C/C++ or Django/Flutter/Mysql
