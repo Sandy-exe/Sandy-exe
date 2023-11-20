@@ -36,7 +36,8 @@ This is the place where I Dump my Codes🗿
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://www.cdnlogo.com/logos/m/35/microsoft-excel.svg" width="80" ></a> <a href="https://app.powerbi.com"><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="40" height="40" ></a>
+ </p>
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sandy-exe&show_icons=true&theme=tokyonight
