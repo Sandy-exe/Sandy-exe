@@ -45,7 +45,6 @@ This is the place where I Dump my Codes🗿
 ![](https://github-readme-stats.vercel.app/api?username=sandy-exe&show_icons=true&theme=tokyonight
 )<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sandy-exe&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandy-exe&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=donut)
 
 ### 🎵 Are we Jamming to the same beats??
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31eclmlgguf5apjzrd4soucy3it4&unique={true|1|on|yes})
