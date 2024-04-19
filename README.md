@@ -6,7 +6,7 @@ This is the place where I Dump my Codes🗿
 - 🌱 I’m currently learning **Data science, Machine Learning, Deep Learning**
 - 💬  Ask me about anything related to Python/C/C++ or Django/Flutter/Mysql
 - ⚡  Fun fact: I ❤️ Movies and Anime.
-- 📄 Know about my experiences [Click for Resume](https://drive.google.com/file/d/1sUjbZPu7dJjHsQfFNAhrFM8w-sWCS19q/view?usp=sharing)
+- 📄 Know about my experiences [Click for Resume](https://drive.google.com/file/d/18CccPtmngBVKG1roEeu43Li682P78ROS/view?usp=sharing)
 
 ### 🔗 Connect with me:
 <a href="https://instagram.com/_.sandy.17._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sandy" height="30" width="40" /></a>
