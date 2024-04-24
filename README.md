@@ -48,7 +48,6 @@ This is the place where I Dump my Codes🗿
 <!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sandy-exe&theme=tokyonight&hide_border=false"> -->
 </div>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sandy-exe&theme=prussian" alt="GitHub Streak" /></a>
 ### 🎵 Are we Jamming to the same beats??
 <div>
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31eclmlgguf5apjzrd4soucy3it4&unique=true" />
