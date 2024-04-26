@@ -45,7 +45,7 @@ This is the place where I Dump my Codes🗿
 ### 📊 GitHub Stats:
 <div>
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sandy-exe&show_icons=true&theme=tokyonight" />
-<!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sandy-exe&theme=tokyonight&hide_border=false"> -->
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sandy-exe&theme=tokyonight&hide_border=false"> 
 </div>
 
 ### 🎵 Are we Jamming to the same beats??
