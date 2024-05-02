@@ -41,15 +41,15 @@ This is the place where I Dump my Codes🗿
 <a href="https://app.powerbi.com"><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="40" height="40"></a>
 </p>
 
-
 ### 📊 GitHub Stats:
-<div>
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=sandy-exe&show_icons=true&theme=tokyonight" />
- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sandy-exe&theme=tokyonight&hide_border=false"/> 
+<!-- GitHub Stats -->
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandy-exe&show_icons=true&theme=tokyonight" style="flex: 1; margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandy-exe&theme=tokyonight&hide_border=false" style="flex: 1;" /> 
 </div>
 
 ### 🎵 Are we Jamming to the same beats??
-<div>
+<!-- Spotify Recently Played -->
+<div style="margin-top: 20px;">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31eclmlgguf5apjzrd4soucy3it4&unique=true" />
 </div>
-
