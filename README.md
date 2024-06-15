@@ -5,9 +5,8 @@ This is the place where I Dump my Codes🗿
 - 🔭 I’m currently working on **Machine Learning**
 - 🌱 I’m currently learning **Data science, Machine Learning, Deep Learning**
 - 💬  Ask me about anything related to Python/C/C++ or Django/Flutter/Mysql
-- ⚡  Fun fact: I ❤️ Movies and Anime.
 - 📄 Know about my experiences [Click for Resume](https://drive.google.com/file/d/18CccPtmngBVKG1roEeu43Li682P78ROS/view?usp=sharing)
-
+- 😜 When I'm not coding, you can find me binge-watching movies or diving into the latest anime series. 
 ### 🔗 Connect with me:
 <a href="https://instagram.com/_.sandy.17._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sandy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/santhosh-kumar-santhanam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santhoshkumar" height="30" width="40" /></a>
