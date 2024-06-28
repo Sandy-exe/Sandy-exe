@@ -4,7 +4,7 @@ This is the place where I Dump my Codes🗿
 
 - 🔭 I’m currently working on **Machine Learning**
 - 🌱 I’m currently learning **Data science, Machine Learning, Deep Learning**
-- 💬  Ask me about anything related to Python/C/C++ or Django/Flutter/Mysql
+- 💬  Ask me about anything related to Python/Java/C++ or Django/Flutter/Mysql
 - 📄 Know about my experiences [Click for Resume](https://drive.google.com/file/d/18CccPtmngBVKG1roEeu43Li682P78ROS/view?usp=sharing)
 - 😜 When I'm not coding, you can find me binge-watching movies or diving into the latest anime series. 
 ### 🔗 Connect with me:
