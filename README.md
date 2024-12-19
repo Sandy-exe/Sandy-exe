@@ -10,6 +10,7 @@ This is the place where I Dump my Codes🗿
 ### 🔗 Connect with me:
 <a href="https://instagram.com/_.sandy.17._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sandy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/santhosh-kumar-santhanam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santhoshkumar" height="30" width="40" /></a>
+<a href="https://sandy-exe.github.io/" target="blank"><img align="center" src="https://sandy-exe.github.io/assets/images/Anime_pics/Gojo2.png" alt="portfolio" height="40" width="45" /></a>
 
 ### 🧑‍💻 Software Stack:
 
@@ -44,7 +45,7 @@ This is the place where I Dump my Codes🗿
 <!-- GitHub Stats -->
 <div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api?username=sandy-exe&show_icons=true&theme=tokyonight" style="flex: 1; margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandy-exe&theme=tokyonight&hide_border=false" style="flex: 1;" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sandy-exe&theme=tokyonight" style="flex: 1;" /> 
 </div>
 
 ### 🎵 Are we Jamming to the same beats??
